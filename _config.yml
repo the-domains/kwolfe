@@ -1,4 +1,19 @@
-analytics: {}
+name: kwolfe
+favicon: null
+layout_spectrum: 0.36351016466505826
+typography_spectrum: 0.6439022165723145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C0C8C8'
@@ -7,12 +22,7 @@ color:
     - '#000000'
     - '#000000'
   brandStrength: 0.9102870339993387
-  lightness: 0.6952813928946853
-  rhythmicContrast: 0.22154006361961365
-  saturation: 0.8626406162511557
-cta: {}
-layout_spectrum: 0.36351016466505826
-name: kwolfe
-opengraph: {}
+  lightness: 0.375
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
-typography_spectrum: 0.6439022165723145
